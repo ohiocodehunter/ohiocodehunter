@@ -14,7 +14,7 @@ Skills:  REACT / JS / HTML / CSS / Bootsrap / MongoDB / Node.Js / Express /SQL/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivatinal)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ivatinal&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ohiocodehunter&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ivatinal)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=ohiocodehunter)  
 

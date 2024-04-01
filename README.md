@@ -4,7 +4,7 @@
 ### Hi there 👋, My name is Karan
 👨‍💻 Karan - Software Engineer & Full Stack Wizard
 
-Hey there! I'm Karan, a seasoned software engineer with 10+ years of experience. I specialize in crafting mesmerizing digital experiences using HTML5, CSS3, Bootstrap, React, JavaScript, MongoDB, and more. From frontend magic to backend wizardry, I bring ideas to life with elegance and precision. With React and JavaScript, I innovate to create dynamic web applications that push boundaries. MongoDB is my go-to for unraveling data mysteries and architecting scalable solutions. I thrive in dynamic environments, where challenges fuel my passion for excellence. Let's collaborate and turn your vision into reality!
+Hey there! I'm Karan, a seasoned software engineer with Fresher of experience. I specialize in crafting mesmerizing digital experiences using HTML5, CSS3, Bootstrap, React, JavaScript, MongoDB, and more. From frontend magic to backend wizardry, I bring ideas to life with elegance and precision. With React and JavaScript, I innovate to create dynamic web applications that push boundaries. MongoDB is my go-to for unraveling data mysteries and architecting scalable solutions. I thrive in dynamic environments, where challenges fuel my passion for excellence. Let's collaborate and turn your vision into reality!
 
 Skills:  REACT / JS / HTML / CSS / Bootsrap / MongoDB / Node.Js / Express /SQL/ 
 

@@ -13,6 +13,3 @@ Skills:  REACT / JS / HTML / CSS / Bootsrap / MongoDB / Node.Js / Express /SQL/
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohiocodehunter)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ohiocodehunter&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ohiocodehunter)  
-

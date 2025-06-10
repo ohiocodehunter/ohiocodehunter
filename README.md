@@ -59,7 +59,7 @@ From building responsive UIs to architecting robust backends, I enjoy turning co
 
 ## 🎯 Portfolio Highlights
 
-<p align="center" style="font-size: 1.1rem; line-height: 1.5; justify-content: center">
+<p align="center" style="font-size: 1.1rem; line-height: 1.5; justify-content: center; align-items: center;">
   <p align="left">
     🛒 <a href="https://karan-och.netlify.app/projects/ecommerce">E-Commerce Platform</a><br>
     🌐 <a href="https://karan-och.netlify.app/projects/blockchain">Blockchain Landing Page</a><br>

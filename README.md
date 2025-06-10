@@ -60,10 +60,11 @@ From building responsive UIs to architecting robust backends, I enjoy turning co
 
 <p align="center" style="font-size: 1.1rem; line-height: 1.5;">
   <p align="left">
-    🛒 <a href="https://karan-och.netlify.app/projects/ecommerce">E-Commerce Platform</a><br>
-    🌐 <a href="https://karan-och.netlify.app/projects/blockchain">Blockchain Landing Page</a><br>
-    📝 <a href="https://karan-och.netlify.app/projects/todo">To-Do Web App</a><br>
-    🔧 <a href="https://karan-och.netlify.app/projects/photo-resizer">Photo Resizer Tool</a>
+    🐦‍🔥 <a href="https://och-gpt.netlify.app/">GPT-3 React Web App</a><br>
+    🛒 <a href="https://och-cara.netlify.app/">E-Commerce Platform</a><br>
+    🌐 <a href="https://cryptobloom.netlify.app/">Blockchain Landing Page</a><br>
+    📝 <a href="https://och-nextgen.netlify.app/">Bus Booking App</a><br>
+    🔧 <a href="https://och-todo.netlify.app/">To-Do App</a>
   </p>
 </p>
 

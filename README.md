@@ -53,7 +53,7 @@ From building responsive UIs to architecting robust backends, I enjoy turning co
 
 ## 📊 GitHub Stats
 
-<p align="center" style="text-align: center;">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohiocodehunter&layout=compact&theme=radical" alt="Top Langs">
   <img src="https://github-readme-stats.vercel.app/api?username=ohiocodehunter&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ohiocodehunter&theme=radical" alt="Streak Stats">
@@ -64,10 +64,12 @@ From building responsive UIs to architecting robust backends, I enjoy turning co
 ## 🎯 Portfolio Highlights
 
 <p align="center">
-  🛒 <a href="https://karan-och.netlify.app/projects/ecommerce">E-Commerce Platform</a><br>
-  🌐 <a href="https://karan-och.netlify.app/projects/blockchain">Blockchain Landing Page</a><br>
-  📝 <a href="https://karan-och.netlify.app/projects/todo">To-Do Web App</a><br>
-  🔧 <a href="https://karan-och.netlify.app/projects/photo-resizer">Photo Resizer Tool</a>
+ <p align="left">
+    🛒 <a href="https://karan-och.netlify.app/projects/ecommerce">E-Commerce Platform</a><br>
+    🌐 <a href="https://karan-och.netlify.app/projects/blockchain">Blockchain Landing Page</a><br>
+    📝 <a href="https://karan-och.netlify.app/projects/todo">To-Do Web App</a><br>
+    🔧 <a href="https://karan-och.netlify.app/projects/photo-resizer">Photo Resizer Tool</a>
+ </p>
 </p>
 
 ---

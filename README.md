@@ -53,7 +53,7 @@ From building responsive UIs to architecting robust backends, I enjoy turning co
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="center" style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohiocodehunter&layout=compact&theme=radical" alt="Top Langs">
   <img src="https://github-readme-stats.vercel.app/api?username=ohiocodehunter&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ohiocodehunter&theme=radical" alt="Streak Stats">

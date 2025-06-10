@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://pbs.twimg.com/media/GJ7fazNXcAAIP7z?format=jpg&name=small" alt="Header Image" style="max-width: 100%; height: auto; border-radius: 12px;">
-</p>
-
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Waving Hand"> Hi there, I'm Karan 
   <br>(aka <a href="https://karan-och.netlify.app" target="_blank">ohiocodehunter</a>)

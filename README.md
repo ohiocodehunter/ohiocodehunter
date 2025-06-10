@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif](https://tenor.com/lBScOlCuObm.gif)" alt="Debugging GIF" style="max-width: 100%; height: auto; max-height: 300px;">
+  <img src="https://tenor.com/lBScOlCuObm.gif" alt="Debugging GIF" style="max-width: 100%; height: auto; max-height: 300px;">
 </p>
 
 <p align="center" style="margin: 20px; font-size: 1.1rem; line-height: 1.5;"> 

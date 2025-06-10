@@ -30,7 +30,7 @@ From building responsive UIs to architecting robust backends, I enjoy turning co
 ## 🌐 Connect with Me
 Find me across these platforms. Let's connect and create something amazing!  
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40" width="40">](https://github.com/ohiocodehunter)  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40" width="40">](https://www.linkedin.com/in/ohiocodehunter/)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40" width="40" style="border: 1px solid white">](https://github.com/ohiocodehunter)  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40" width="40">](https://www.linkedin.com/in/ohiocodehunter/)  
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="40" width="40">](https://www.youtube.com/@KenSan)  
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="40" width="40">](https://twitter.com/karandevloper)  
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg" alt="TikTok" height="40" width="40">](https://www.tiktok.com/@ohiocodehunter)  

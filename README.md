@@ -50,7 +50,7 @@ From building responsive UIs to architecting robust backends, I enjoy turning co
 ## 📊 GitHub Stats
 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohiocodehunter&layout=compact&theme=radical" alt="Top Langs" style="max-width: 300px; height: 600px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohiocodehunter&layout=compact&theme=radical" alt="Top Langs" style="max-width: 300px; height: 100px;">
   <img src="https://github-readme-stats.vercel.app/api?username=ohiocodehunter&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 300px; height: 600px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ohiocodehunter&theme=radical" alt="Streak Stats" style="max-width: 300px; height: 600px;">
 </p>

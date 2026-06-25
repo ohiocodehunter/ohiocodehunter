@@ -43,6 +43,7 @@ A modern full-stack fitness platform featuring AI meal planning, workout trackin
 
 <img src="https://raw.githubusercontent.com/ohiocodehunter/pulsefitx/src/assets/preview.png" width="100%"/>
 
+
 </td>
 </tr>
 </table>

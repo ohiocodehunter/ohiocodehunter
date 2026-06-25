@@ -20,6 +20,48 @@ From building responsive UIs to architecting robust backends, I enjoy turning co
 </p>
 
 ---
+## 🚀 Portfolio Showcase
+
+<table>
+<tr>
+<td width="50%">
+
+### 💚 PulseFitX
+
+**AI-Powered Fitness & Nutrition Platform**
+
+A modern full-stack fitness platform featuring AI meal planning, workout tracking, nutrition analytics, recovery scoring, multilingual support (English & Japanese), and a personalized AI fitness coach.
+
+**Tech:** React • Vite • Firebase • Firestore • Gemini AI • Tailwind CSS
+
+🔗 **Live Demo:** https://pulsefitx.netlify.app
+📱 **Android APK:** https://github.com/ohiocodehunter/PulseFitX/releases
+
+</td>
+
+<td width="50%">
+
+<img src="https://raw.githubusercontent.com/ohiocodehunter/PulseFitX/main/public/preview.png" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🌟 Featured Projects
+
+| Project                   | Description                    | Live Demo                       |
+| ------------------------- | ------------------------------ | ------------------------------- |
+| 🤖 GPT-3 React App        | AI powered chatbot interface   | https://och-gpt.netlify.app     |
+| 🛒 E-Commerce Platform    | Responsive shopping experience | https://och-cara.netlify.app    |
+| ₿ Blockchain Landing Page | Modern crypto landing page     | https://cryptobloom.netlify.app |
+| 🚌 Bus Booking App        | Online ticket booking system   | https://och-nextgen.netlify.app |
+| ✅ To-Do App               | Productivity task manager      | https://och-todo.netlify.app    |
+
+
+---
+
 
 ## 🚀 Tech Stack & Skills
 
@@ -56,19 +98,6 @@ From building responsive UIs to architecting robust backends, I enjoy turning co
 
 ---
 
-## 🎯 Portfolio Highlights
-
-<p align="center" style="font-size: 1.1rem; line-height: 1.5;">
-  <p align="left">
-    🐦‍🔥 <a href="https://och-gpt.netlify.app/">GPT-3 React Web App</a><br>
-    🛒 <a href="https://och-cara.netlify.app/">E-Commerce Platform</a><br>
-    🌐 <a href="https://cryptobloom.netlify.app/">Blockchain Landing Page</a><br>
-    📝 <a href="https://och-nextgen.netlify.app/">Bus Booking App</a><br>
-    🔧 <a href="https://och-todo.netlify.app/">To-Do App</a>
-  </p>
-</p>
-
----
 
 ## 🌟 Fun Extras!
 

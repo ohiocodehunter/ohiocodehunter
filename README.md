@@ -41,7 +41,7 @@ A modern full-stack fitness platform featuring AI meal planning, workout trackin
 
 <td width="50%">
 
-<img src="https://raw.githubusercontent.com/ohiocodehunter/PulseFitX/main/public/preview.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/ohiocodehunter/PulseFitX/src/assets/preview.png" width="100%"/>
 
 </td>
 </tr>

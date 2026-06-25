@@ -24,7 +24,7 @@ From building responsive UIs to architecting robust backends, I enjoy turning co
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
 ### 💚 PulseFitX
 
@@ -39,7 +39,6 @@ A modern full-stack fitness platform featuring AI meal planning, workout trackin
 
 </td>
 
-<td width="50%">
 
 <img src="https://github.com/ohiocodehunter/pulsefitx/blob/main/src/assets/preview.png" width="100%"/>
 
